@@ -19,5 +19,5 @@ An affirmative answer to these following questions is very important, but these 
 1. Can you demonstrate that the research activity will deliver a benefit to NL PhiLab and the Netherlands?
 2. Does your project idea have potential commercial market value?
 
-For questions, click [here](mailto:philab@nlspacecampus.eu?subject=NL%20PhiLab%20Eligibility%20Checklist&body=Dear%20NL%20PhiLab&team,&nbsp;&nbsp;I%20have%20a%20question%20about%20the%20Eligibility%20Checklist.%nbsp;&nbsp;Kind%20regards,&nbsp;) to send us an email.
+For questions, click [here](mailto:philab@nlspacecampus.eu?subject=NL%20PhiLab%20Eligibility%20Checklist&body=Dear%20NL%20PhiLab&team,%0A%0AI%20have%20a%20question%20about%20the%20Eligibility%20Checklist.%nbsp;%0AKind%20regards,%0A) to send us an email.
 
