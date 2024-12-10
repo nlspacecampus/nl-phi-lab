@@ -27,7 +27,7 @@ We focus on Earth Observation, Position, Navigation and Timing, and Laser Satell
 
 [**Funding**](#funding)   Benefit from an innovation incentive of €200k per project.
 
-[**Support & Coaching**](#support--oaching)  Get extensive guidance in science, technology, business, IP, and sustainability.
+[**Support & Coaching**](#support--coaching)  Get extensive guidance in science, technology, business, IP, and sustainability.
 
 [**Workspace**](#workspace)  Enjoy free workspace at [NL Space Campus](https://www.nlspacecampus.eu/) in Noordwijk, right next to ESA [ESTEC](https://www.esa.int/About_Us/ESTEC).
 
