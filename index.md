@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: NL Phi-Lab
+subtitle: a part of ESA Phi-LabNET
 ---
 
