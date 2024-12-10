@@ -1,6 +1,7 @@
 ---
 title: "Call for Projects"
 layout: default
+permalink: /call-for-projects/
 nav_order: 2
 ---
 

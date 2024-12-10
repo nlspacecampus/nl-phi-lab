@@ -1,6 +1,7 @@
 ---
 title: "Idea Outline"
 layout: default
+permalink: /idea-outline/
 nav_order: 2
 ---
 

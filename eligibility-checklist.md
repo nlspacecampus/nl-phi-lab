@@ -1,7 +1,8 @@
 ---
 title: "Eligibility Checklist"
 layout: default
-nav_order: 3
+permalink: /eligibility-checklist/
+nav_order: 2
 ---
 
 ## Eligibility Checklist
