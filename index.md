@@ -23,7 +23,7 @@ We focus on Earth Observation, Position, Navigation and Timing, and Laser Satell
 
 ### **Where You Come In**
 
-[Apply](https://www.notion.so/33678e702f6940f1ad5cd4ae19eefa2b?pvs=21) to participate in collaborative research projects and develop innovative solutions. You will be supported along the way and have the chance to develop new [partnerships](https://www.notion.so/33678e702f6940f1ad5cd4ae19eefa2b?pvs=21) in the space sector.
+[Apply](#application-steps) to participate in collaborative research projects and develop innovative solutions. You will be supported along the way and have the chance to develop new [partnerships](#partners) in the space sector.
 
 ### **Comprehensive Support and Resources**
 
@@ -45,7 +45,7 @@ We focus on Earth Observation, Position, Navigation and Timing, and Laser Satell
 
 **1. Explore**
 
-Explore our [Call for Projects](https://www.notion.so/spaceatipn/call-for-projects.html) info, try our [Eligibility Checklist](https://www.notion.so/spaceatipn/eligibility-checklist.html), attend an Info Session, and submit an [Idea Outline](https://www.notion.so/spaceatipn/idea-outline.html).
+Explore our [Call for Projects](call-for-projects.md) info, try our [Eligibility Checklist](eligibility-checklist.md), attend an Info Session, and submit an [Idea Outline](idea-outline.md).
 
 **2. Prepare**
 
@@ -63,7 +63,7 @@ Each project is eligible to receive innovation incentive funding up to €200k. 
 
 ### **Support & Coaching**
 
-Research teams benefit from a supportive environment that includes office space, interaction with peers, and access to a network of business and technical [partners](https://www.notion.so/33678e702f6940f1ad5cd4ae19eefa2b?pvs=21). NL Phi-Lab organizes masterclasses, seminars, and equipment demos to address real challenges and stimulate innovation. Teams are also given opportunities to present their work at national and international events, fostering connections with potential collaborators, customers, and investors. The program includes continuous mentoring, training, and technical support, ensuring that research teams have the necessary resources to succeed.
+Research teams benefit from a supportive environment that includes office space, interaction with peers, and access to a network of business and technical [partners](#partners). NL Phi-Lab organizes masterclasses, seminars, and equipment demos to address real challenges and stimulate innovation. Teams are also given opportunities to present their work at national and international events, fostering connections with potential collaborators, customers, and investors. The program includes continuous mentoring, training, and technical support, ensuring that research teams have the necessary resources to succeed.
 
 ### **Workspace**
 
@@ -135,7 +135,7 @@ NL Phi-Lab’s network of partners is integral to the success of research teams,
 
 ### **Can I apply?**
 
-To determine your eligibility, please use our [Eligibility Checklist](https://www.notion.so/spaceatipn/eligibility-checklist.html). Generally, applicants must be a Dutch legal entity (such as an SME, Industry, Research Organisation, or University), or the proposed activities must have a significant impact in the Netherlands. We also recommend attending our Info Sessions and submitting an [Idea Outline](https://www.notion.so/spaceatipn/idea-outline.html).
+To determine your eligibility, please use our [Eligibility Checklist](eligibility-checklist.md). Generally, applicants must be a Dutch legal entity (such as an SME, Industry, Research Organisation, or University), or the proposed activities must have a significant impact in the Netherlands. We also recommend attending our Info Sessions and submitting an [Idea Outline](idea-outline.md).
 
 ### **How much funding does NL Phi-Lab provide per project?**
 
@@ -151,9 +151,9 @@ The financial incentive can be spent on the following:
 - Materials, equipment, and facilities (equipment remains the property of NL Phi-Lab).
 - Travel, subsistence, and accommodation costs.
 
-### **Do I need to submit an [Idea Outline](https://www.notion.so/spaceatipn/idea-outline.html)?**
+### **Do I need to submit an [Idea Outline](idea-outline.md)?**
 
-Submitting an [Idea Outline](https://www.notion.so/spaceatipn/idea-outline.html) is optional, but it is strongly recommended.
+Submitting an [Idea Outline](idea-outline.md) is optional, but it is strongly recommended.
 
 ### **How can I access facilities and services offered by partners?**
 
@@ -194,18 +194,18 @@ Click event name to see description.
 
 | **Month** | **Week 1** | **Week 2** | **Week 3** | **Week 4** |
 | --- | --- | --- | --- | --- |
-| **Jan** | [iß](https://www.notion.so/NL-Phi-Lab-e0786326911f497ca44dceeb67c13604?pvs=21) |  | [iß](https://www.notion.so/NL-Phi-Lab-e0786326911f497ca44dceeb67c13604?pvs=21) | [Seminar](https://www.notion.so/NL-Phi-Lab-e0786326911f497ca44dceeb67c13604?pvs=21) 1 + [`Tech Demo](https://www.notion.so/NL-Phi-Lab-e0786326911f497ca44dceeb67c13604?pvs=21) 1` |
-| **Feb** | [iß](https://www.notion.so/NL-Phi-Lab-e0786326911f497ca44dceeb67c13604?pvs=21) | [MasterClass](https://www.notion.so/NL-Phi-Lab-e0786326911f497ca44dceeb67c13604?pvs=21) 1 | [iß](https://www.notion.so/NL-Phi-Lab-e0786326911f497ca44dceeb67c13604?pvs=21) | [4Impact Series](https://www.notion.so/NL-Phi-Lab-e0786326911f497ca44dceeb67c13604?pvs=21) 1 |
-| **Mar** | [iß](https://www.notion.so/NL-Phi-Lab-e0786326911f497ca44dceeb67c13604?pvs=21) |  | [iß](https://www.notion.so/NL-Phi-Lab-e0786326911f497ca44dceeb67c13604?pvs=21) |  |
-| **Apr** | [iß](https://www.notion.so/NL-Phi-Lab-e0786326911f497ca44dceeb67c13604?pvs=21) | [Seminar](https://www.notion.so/NL-Phi-Lab-e0786326911f497ca44dceeb67c13604?pvs=21) 2 + [`Tech Demo](https://www.notion.so/NL-Phi-Lab-e0786326911f497ca44dceeb67c13604?pvs=21) 2` | [iß](https://www.notion.so/NL-Phi-Lab-e0786326911f497ca44dceeb67c13604?pvs=21) | [4Impact Series](https://www.notion.so/NL-Phi-Lab-e0786326911f497ca44dceeb67c13604?pvs=21) 2 |
-| **May** | [iß](https://www.notion.so/NL-Phi-Lab-e0786326911f497ca44dceeb67c13604?pvs=21) |  | [Demo Day](https://www.notion.so/NL-Phi-Lab-e0786326911f497ca44dceeb67c13604?pvs=21) 1 |  |
-| **Jun** | [iß](https://www.notion.so/NL-Phi-Lab-e0786326911f497ca44dceeb67c13604?pvs=21) | [MasterClass](https://www.notion.so/NL-Phi-Lab-e0786326911f497ca44dceeb67c13604?pvs=21) 2 | [iß](https://www.notion.so/NL-Phi-Lab-e0786326911f497ca44dceeb67c13604?pvs=21) | [4Impact Series](https://www.notion.so/NL-Phi-Lab-e0786326911f497ca44dceeb67c13604?pvs=21) 3 |
-| **Jul** | [iß](https://www.notion.so/NL-Phi-Lab-e0786326911f497ca44dceeb67c13604?pvs=21) |  | [iß](https://www.notion.so/NL-Phi-Lab-e0786326911f497ca44dceeb67c13604?pvs=21) |  |
-| **Aug** | [iß](https://www.notion.so/NL-Phi-Lab-e0786326911f497ca44dceeb67c13604?pvs=21) |  | [iß](https://www.notion.so/NL-Phi-Lab-e0786326911f497ca44dceeb67c13604?pvs=21) |  |
-| **Sep** | [iß](https://www.notion.so/NL-Phi-Lab-e0786326911f497ca44dceeb67c13604?pvs=21) |  | [iß](https://www.notion.so/NL-Phi-Lab-e0786326911f497ca44dceeb67c13604?pvs=21) | [Seminar](https://www.notion.so/NL-Phi-Lab-e0786326911f497ca44dceeb67c13604?pvs=21) 3 +[`Tech Demo](https://www.notion.so/NL-Phi-Lab-e0786326911f497ca44dceeb67c13604?pvs=21) 3` |
-| **Oct** | [iß](https://www.notion.so/NL-Phi-Lab-e0786326911f497ca44dceeb67c13604?pvs=21) | [MasterClass](https://www.notion.so/NL-Phi-Lab-e0786326911f497ca44dceeb67c13604?pvs=21) 3 | [iß](https://www.notion.so/NL-Phi-Lab-e0786326911f497ca44dceeb67c13604?pvs=21) | [4Impact Series](https://www.notion.so/NL-Phi-Lab-e0786326911f497ca44dceeb67c13604?pvs=21) 4 |
-| **Nov** | [iß](https://www.notion.so/NL-Phi-Lab-e0786326911f497ca44dceeb67c13604?pvs=21) |  | [Demo Day](https://www.notion.so/NL-Phi-Lab-e0786326911f497ca44dceeb67c13604?pvs=21) 2 |  |
-| **Dec** | [iß](https://www.notion.so/NL-Phi-Lab-e0786326911f497ca44dceeb67c13604?pvs=21) | [4Impact Series](https://www.notion.so/NL-Phi-Lab-e0786326911f497ca44dceeb67c13604?pvs=21) 5 | [iß](https://www.notion.so/NL-Phi-Lab-e0786326911f497ca44dceeb67c13604?pvs=21) |  |
+| **Jan** | [iß](events.md) |  | [iß](events.md) | [Seminar](events.md) 1 + [`Tech Demo](events.md) 1` |
+| **Feb** | [iß](events.md) | [MasterClass](events.md) 1 | [iß](events.md) | [4Impact Series](events.md) 1 |
+| **Mar** | [iß](events.md) |  | [iß](events.md) |  |
+| **Apr** | [iß](events.md) | [Seminar](events.md) 2 + [`Tech Demo](events.md) 2` | [iß](events.md) | [4Impact Series](events.md) 2 |
+| **May** | [iß](events.md) |  | [Demo Day](events.md) 1 |  |
+| **Jun** | [iß](events.md) | [MasterClass](events.md) 2 | [iß](events.md) | [4Impact Series](events.md) 3 |
+| **Jul** | [iß](events.md) |  | [iß](events.md) |  |
+| **Aug** | [iß](events.md) |  | [iß](events.md) |  |
+| **Sep** | [iß](events.md) |  | [iß](events.md) | [Seminar](events.md) 3 +[`Tech Demo](events.md) 3` |
+| **Oct** | [iß](events.md) | [MasterClass](events.md) 3 | [iß](events.md) | [4Impact Series](events.md) 4 |
+| **Nov** | [iß](events.md) |  | [Demo Day](events.md) 2 |  |
+| **Dec** | [iß](events.md) | [4Impact Series](events.md) 5 | [iß](events.md) |  |
 
 ## **Team**
 
