@@ -1,11 +1,13 @@
 ---
 title: NL Phi-Lab
 subtitle: "a part of ESA Phi-LabNET"
-layout: default
+layout: home
 nav_order: 1
 ---
 
 # NL Phi-Lab
+
+... where research breeds innovation.
 
 ## **About**
 
