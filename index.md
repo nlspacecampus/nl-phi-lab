@@ -37,7 +37,7 @@ We focus on Earth Observation, Position, Navigation and Timing, and Laser Satell
 
 ## NL Phi-Lab Structure
 
-![NL%20Phi-Lab%20e0786326911f497ca44dceeb67c13604/NL_PhiLab_33678e702f6940f1ad5cd4ae19eefa2bphilab-diagram.png](NL%20Phi-Lab%20e0786326911f497ca44dceeb67c13604/NL_PhiLab_33678e702f6940f1ad5cd4ae19eefa2bphilab-diagram.png)
+![assets/philab-diagram.png](assets/philab-diagram.png)
 
 ## **Application Steps**
 
