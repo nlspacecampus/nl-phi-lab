@@ -25,15 +25,15 @@ We focus on Earth Observation, Position, Navigation and Timing, and Laser Satell
 
 ### **Comprehensive Support and Resources**
 
-[**Funding**](https://www.notion.so/33678e702f6940f1ad5cd4ae19eefa2b?pvs=21)   Benefit from an innovation incentive of €200k per project.
+[**Funding**](#funding)   Benefit from an innovation incentive of €200k per project.
 
-[**Support & Coaching**](https://www.notion.so/33678e702f6940f1ad5cd4ae19eefa2b?pvs=21)  Get extensive guidance in science, technology, business, IP, and sustainability.
+[**Support & Coaching**](#support--oaching)  Get extensive guidance in science, technology, business, IP, and sustainability.
 
-[**Workspace**](https://www.notion.so/33678e702f6940f1ad5cd4ae19eefa2b?pvs=21)  Enjoy free workspace at [NL Space Campus](https://www.nlspacecampus.eu/) in Noordwijk, right next to ESA [ESTEC](https://www.esa.int/About_Us/ESTEC).
+[**Workspace**](#workspace)  Enjoy free workspace at [NL Space Campus](https://www.nlspacecampus.eu/) in Noordwijk, right next to ESA [ESTEC](https://www.esa.int/About_Us/ESTEC).
 
-[**Facilities**](https://www.notion.so/33678e702f6940f1ad5cd4ae19eefa2b?pvs=21) Access modern labs, makerspaces, and other specialised facilities.
+[**Facilities**](#facilities) Access modern labs, makerspaces, and other specialised facilities.
 
-[**Partner Network**](https://www.notion.so/33678e702f6940f1ad5cd4ae19eefa2b?pvs=21)  Leverage our expansive network to build valuable connections with our partners.
+[**Partner Network**](#partner-network)  Leverage our expansive network to build valuable connections with our partners.
 
 ## NL Phi-Lab Structure
 
