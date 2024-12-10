@@ -5,8 +5,6 @@ layout: home
 nav_order: 1
 ---
 
-# NL Phi-Lab
-
 ... where research breeds innovation.
 
 ## **About**
