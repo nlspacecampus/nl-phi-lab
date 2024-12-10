@@ -1,9 +1,11 @@
 ---
 title: NL Phi-Lab
+subtitle: "a part of ESA Phi-LabNET"
+layout: default
+nav_order: 1
 ---
 
 # NL Phi-Lab
-a part of ESA Phi-Lab NET
 
 ## **About**
 
